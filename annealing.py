@@ -1,0 +1,1 @@
+from amplify import SymbolGenerator
